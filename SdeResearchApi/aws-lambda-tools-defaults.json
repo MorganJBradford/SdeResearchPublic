@@ -1,0 +1,21 @@
+
+{
+    "region" : "",
+    "profile" : "",
+    "configuration" : "Release",
+    "framework"     : "net6.0",
+    "function-name" : "",
+    "package-type"  : "Zip",
+    "function-handler" : "",
+    "function-memory-size" : 512,
+    "function-role"        : "",
+    "function-timeout"     : 30,
+    "function-runtime"     : "dotnet6",
+    "function-architecture" : "x86_64",
+    "function-subnets"      : "",
+    "function-security-groups" : "",
+    "tracing-mode"             : "PassThrough",
+    "environment-variables"    : "",
+    "image-tag"                : "",
+    "function-description"     : ""
+}

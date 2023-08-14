@@ -1,0 +1,16 @@
+export const HOME: string = '/';
+export const PURPOSE: string = '/purpose';
+export const WHO_WE_ARE: string = '/who-we-are';
+export const WHAT_IS_SDE: string = '/what-is-sde';
+export const PUBLICATIONS: string = '/publications/:publicationType';
+export const PRACTITIONER_PUBLICATIONS: string = '/practitioner-publications';
+export const TOPIC_NAME: string = '/scholarship-summaries/:topicName';
+export const GET_INVOLVED: string = '/get-involved';
+export const OTHER_MEDIA: string = '/other-media';
+export const LOGIN: string = '/login';
+export const RESET: string = 'reset';
+export const PROFILE: string = '/profile';
+export const MANAGEMENT_DASHBOARD: string = '/management-dashboard/*';
+export const RESEARCHER_MANAGEMENT: string = 'researcher-management';
+export const TOPIC_MANAGEMENT: string = 'topic-management';
+export const PUBLICATION_MANAGEMENT: string = 'publication-management';
